@@ -21,4 +21,4 @@ sebagai input dalam instruksi yang akan dijalan melalui suatu fungsi.
 3.) Fungsi Tanpa Parameter dan Return Value : Fungsi yang biasa digunakan apabila output yang dihasilkan hanya berupa tampilan saja sehingga tidak dibutuhkan inputan dan pengembalian nilai.
 4.) Fungsi dengan Parameter Default : Fungsi yang dimana parameternya sudah ditentukan dan tidak bisa diubah-ubah sebagaimana parameter yang menjadi inputan oleh user.
 # Apakah kode atau script program yang kamu tulis sudah benar atau masih salah? Berikan alasanmu! Sebutkan nama fungsi beserta paramater yang kamu gunakan dalam program!
-Belum karena masih ada beberapa kode yang salah sehingga outputnya pun menjadi salah. Fungsi yang saya gunakan yaitu 
+Belum karena masih ada beberapa kode yang salah sehingga outputnya pun menjadi salah. Fungsi yang saya gunakan yaitu fungsi hitung dengan parameter $jarak dan $waktu. 
